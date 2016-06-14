@@ -1,0 +1,110 @@
+html, body
+{
+	height: 100%;
+}
+
+body
+{
+	margin-top: 50px;
+	margin-bottom: 20px;
+	padding: 0px;
+	background: #FFB42F url(../myimages/img02.png) repeat-x left top;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 10pt;
+	color: #6F644C;
+}
+#wrapper
+{
+	position: relative;
+	right: 10px;
+	width: 725px;
+	padding: 10px 10px 40px 10px;
+	background: #FFDA99;
+	box-shadow: inset 0px 0px 0px 10px rgba(255, 255, 255,0.50);
+	border-radius: 40px 0px 40px 0px;
+	height:800px;
+	
+	
+}
+.title{color:purple;}
+.fixedwidth{
+	          width:1000px;margin: 0 auto;}
+			  #fix{
+	border-radius: 30px 0px 0px 0px;
+}
+
+.post2{margin:20px;font-size:medium;border-top: 1px solid #DDBE88;font-family:comic sans !important;}
+.post{margin:20px;font-size:medium;font-family:comic sans !important;}
+#user{padding-top:10px;}
+#footer
+{
+	margin: 0px 40px;
+ 
+}
+
+#footer p
+{
+	padding: 0px 0px 5px 0px;
+	text-align: left;
+}
+#sidebar
+{
+	position: absolute;
+	width: 270px;
+	left: 730px;
+	top: 30px;
+	display:none;
+}
+
+.box
+{
+	overflow: hidden;
+	padding: 40px 40px;
+	background: purple;
+	box-shadow: inset 0px 0px 0px 10px rgba(255, 255, 255,0.90);
+	border-radius: 0px 40px 0px 40px;
+}
+	#menu ul
+{
+	margin: 0px;
+	padding: 20px 0px 0px 0px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li
+{
+	padding: 0px 0px 20px 0px;
+}
+
+#menu a
+{
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 1.50em;
+	color: #FFFFFF;
+}
+
+#menu a:hover
+{
+	text-decoration: underline;
+}
+#logo h1, #logo p
+{
+	margin: 0px;
+	line-height: normal;
+}
+
+#logo h1 a
+{
+	padding-left: 30px;
+	text-decoration: none;
+	font-family: 'Satisfy', cursive;
+	font-size: 2.20em;
+	font-weight: 700;
+	color: #860659;
+}
+#pointer{position:relative;left:1100px;top:-250px;}
+#slides{display:none;}
+.line{width:20px;background-color:black;}
