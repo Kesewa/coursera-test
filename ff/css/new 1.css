@@ -20,7 +20,7 @@ background-image:url('../myimages/discussion.jpg');background-size:1500px 650px;
 	.add{position:relative;right:-1200px;}
 	.editor{text-align:center;font-size:3em;font-weight:bold;font-family:comic sans;padding-top:150px;display:none;}
 	.edit{position:relative;right:-400px;top:300px;width:120px;border-radius:30px;background-color:#996633;font-size:medium;font-weight:bold;}
-	#sidebar {width: 250px;background-color: ;height: 500px;;position:relative;right:1100px;top:50px;display:none;
+	#sidebar {width: 250px;background-color: ;height: 500px;;position:relative;right:1000px;top:50px;display:none;
 text-align: center;float:right}
 #sidebar li{list-style:none;padding:30px;font-weight:bold;}
 #p1{font-size:1em;color:white;}
