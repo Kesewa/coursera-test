@@ -29,7 +29,7 @@ text-align: center;float:right}
 a:link{text-decoration:none;color:purple;}
 #describe{font-size:1em;color:#339966;font--weight:bold;position:relative;right:50px;}
 #img{position:relative;right:-20px;top:30px;}
-#buttons{;border-width:100%;border-height:50px;padding-left:20px;background-color:#CC9933;text-align:center;position:relative;top:-20px;}
+#buttons{;border-width:100%;border-height:50px;padding-left:20px;background-color:#CC9933;text-align:center;position:relative;top:-50px;}
 .pad{padding-right:50px;padding-left:5px;}
 .trademark{font-weight:bold;font-family:comic sans;text-align:center;}
 .break{clear:both;}
