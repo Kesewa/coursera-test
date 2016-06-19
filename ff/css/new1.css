@@ -1,0 +1,41 @@
+body{
+background-image:url('../myimages/discussion.jpg');background-size:1500px 650px;background-repeat:no-repeat;}
+	
+    
+
+
+      *{margin:0px;padding:0px;}
+	.topbar{
+	       width:100%;height:650px; }
+	
+	.fixedwidth{
+	          width:1050px;margin: 0 auto;
+	  
+	}
+	
+    
+	
+	
+	}
+	.add{position:relative;right:-1200px;}
+	.editor{text-align:center;font-size:3em;font-weight:bold;font-family:comic sans;padding-top:0px;display:none;}
+	.edit{position:relative;right:-600px;top:300px;width:120px;border-radius:30px;background-color:#996633;font-size:medium;font-weight:bold;}
+	#sidebar {width: 250px;background-color: ;height: 500px;;position:relative;right:1150px;top:50px;display:none;
+text-align: center;float:right}
+#sidebar li{list-style:none;padding:30px;font-weight:bold;}
+#p1{font-size:1em;color:white;}
+#p3{font-size:3em;color:#CC9933;}
+#p2{font-size:0.6em;}
+a:link{text-decoration:none;color:purple;}
+#describe{font-size:1em;color:#339966;font--weight:bold;position:relative;right:50px;}
+#img{position:relative;right:-20px;top:30px;display:none;}
+#buttons{;border-width:100%;border-height:50px;padding-left:20px;position:relative;top:-20px;background-color:#CC9933;text-align:center;}
+.pad{padding-right:50px;padding-left:5px;}
+.trademark{font-weight:bold;font-family:comic sans;text-align:center;}
+.break{clear:both;}
+.line{background-color:green;;width:20px;border-radius:5px;height:8px;position:relative;right:-100px;top:50px;}
+.classy{padding-right:50px;padding-top:10px;display:none;position:relative;right:-450px;top:-40px; padding-left:50px;}
+.definitions{font-size:2em;font-family:comic sans;display:none;}
+#f{color:yellow;position:relative;right:-240px;top:-55px;}
+#p{color:red;position:relative;right:-300px;top:-55px;}
+#s{color:lightblue;position:relative;right:-450px;top:-55px;}
