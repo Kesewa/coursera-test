@@ -1,25 +1,30 @@
 
 $(".edit").click(function(){
 
-	var func1=	  $(".editor").fadeIn(1000);
+	var func1=$(".editor").fadeIn(1000);
+        $(".classy").fadeIn(1000);
+        
            $(".edit").hide(1000);
 		  
             
 });
 var func2=$("#img").click(function(){
     $("#sidebar").fadeOut(1000);
+$(".editor").fadeIn(1000);
+    
 });
 	
 var func3=$(".line").click(function(){
     $("#sidebar").toggle(2000);
-
+$("#img").toggle(2000);
 $(".line").hide();
+$(".editor").fadeOut(1000);
    
 });
 var func5=$("#img").click(function(){
 
 $(".line").fadeIn();
-   
+   $("#img").toggle(2000);
 });
 	
 	var func6=$("#one").hover(function(){
